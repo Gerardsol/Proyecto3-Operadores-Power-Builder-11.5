@@ -1,0 +1,16 @@
+integer num1,num2,suma,resta,multiplicacion
+double division 
+
+num1= 20
+num2= 10   //inicio
+
+suma= num1+num2
+resta= num1 - num2
+multiplicacion=num1*num2   //proceso
+division=num1/num2
+
+sle_SUMA.text=string(suma)
+sle_RESTA.text=string(resta)
+sle_MULTIPLICACION.text=string(multiplicacion) //salida 
+sle_DIVISION.text=string(division)
+
